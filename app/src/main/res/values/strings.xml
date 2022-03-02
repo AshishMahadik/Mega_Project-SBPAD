@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Project 1.0</string>
+    <string name="username">Username</string>
+    <string name="next">Next</string>
+    <string name="registration">Registration</string>
+    <string name="Password">Password</string>
+    <string name="Confirmpassword">Confirm Password</string>
+    <string name="work_status">Work Status</string>
+    <string name="name">Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="select_language">Select Language</string>
+    <string name="select_hobbies">Select Hobbies</string>
+    <string name="why_">Why you came here ?</string>
+    <string name="register">Register</string>
+    <string name="student">student</string>
+    <string name="english">English</string>
+    <string name="select">Select</string>
+    <string name="space">  </string>
+    <string name="login">Login</string>
+    <string name="loginhere">Already registered? Click here to login</string>
+    <string name="notregister">Not registered? Click here to register</string>
+    <string name="user">User</string>
+    <string name="todo">To Do</string>
+    <string name="stastics">Stastics</string>
+    <string name="bsss">Bsss</string>
+    <string name="hi">HI</string>
+    <string name="add_app">Add App</string>
+    <string-array name="status">
+        <item>Student</item>
+        <item>Employed</item>
+        <item>UnEmployed</item>
+        <item>Businessman</item>
+    </string-array>
+
+    //why did you came here spinner.....
+    <string-array name="why">
+        <item>Friend Suggested</item>
+        <item>Motivation purpose </item>
+        <item>Self Improvement</item>
+        <item>Achieving goal</item>
+    </string-array>
+</resources>
